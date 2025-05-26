@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/ColdTech65",
       "Telegram": "https://t.me/coldezy",
-      "Поддержать автора": "#"
+      "Поддержать автора": "https://boosty.to/coldezy/donate"
     },
   }),
 }
